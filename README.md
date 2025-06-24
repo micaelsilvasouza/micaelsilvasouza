@@ -10,7 +10,7 @@ Seja bem-vindo(a) ao meu espaço no GitHub! Sou um desenvolvedor **apaixonado po
 
 Com uma base sólida e paixão por desenvolvimento, minhas principais ferramentas incluem:
 
-* **JavaScript (Node.js):** Domino a linguagem JavaScript e utilizo as poderosas ferramentas do **Node.js** para construir soluções robustas e escaláveis no backend.
+* **JavaScript (Node.js) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black):** Domino a linguagem JavaScript e utilizo as poderosas ferramentas do **Node.js** para construir soluções robustas e escaláveis no backend.
 * **Frameworks JavaScript:** Tenho experiência prática e proficiente com os seguintes frameworks:
     * **Next.js:** Para a criação de aplicações web modernas e otimizadas.
     * **React Native:** Para a construção de aplicativos móveis nativos para iOS e Android com uma única base de código.
