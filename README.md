@@ -17,8 +17,8 @@ Aqui estão as tecnologias que eu uso e as linguagens em que mais contribuo:
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=nord)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=nord)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=micaelsilvasouza&show_icons=true&theme=nord)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=micaelsilvasouza&layout=compact&theme=nord)
 
 ### Minhas Habilidades Principais 🚀
 
