@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-## Olá! Eu sou o Micael 👋
+Me chamo Micael
 
 ### Desenvolvedor Full Stack com Foco em JavaScript e um Forte Desejo de Aprender!
 
