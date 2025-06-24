@@ -1,4 +1,3 @@
-<h1 style="color: red;">Funcionario</h1>
 ## Olá eu sou o Micael 👋
 
 ### Desenvolvedor Full Stack com Foco em JavaScript e um Forte Desejo de Aprender!
